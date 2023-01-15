@@ -590,6 +590,10 @@ video {
   margin-top: auto;
 }
 
+.mb-auto{
+  margin-bottom: auto;
+}
+
 .flex{
   display: flex;
 }
@@ -621,6 +625,22 @@ video {
 
 .h-16{
   height: 4rem;
+}
+
+.h-2\/4{
+  height: 50%;
+}
+
+.h-2\/3{
+  height: 66.666667%;
+}
+
+.h-2{
+  height: 0.5rem;
+}
+
+.h-3{
+  height: 0.75rem;
 }
 
 .w-screen{
@@ -700,6 +720,10 @@ video {
 
 .items-start{
   align-items: flex-start;
+}
+
+.items-end{
+  align-items: flex-end;
 }
 
 .items-center{
